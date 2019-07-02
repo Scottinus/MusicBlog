@@ -1,0 +1,43 @@
+
+#Title{
+    font-family: 'Russo One', sans-serif;
+    padding: 20px;
+    text-align: center;
+    padding-top: 90px;
+}
+p{
+    padding-top: 20px;
+}
+
+.sectionTitle{
+    font-family: 'Russo One', sans-serif;
+    padding: 20px;
+    text-align: center;
+    padding-top: 20px;
+}
+h2, h5{
+    font-family: 'Russo One', sans-serif;
+}
+.subtitle{
+    
+    font-family: 'Russo One', sans-serif;
+    padding-top:15px;
+    padding-bottom: 20px;
+}
+.btn {
+    margin-left: 3.5em;
+}
+
+.btn-primary {
+    border-color: #343a40ff;
+    background-color: #343a40ff;
+    color: white;
+}
+
+.musicImg {
+    max-width: 70%;
+    height: auto;
+    margin-left: 2.6em;
+    margin-top: 10px;
+    padding-top:20px;
+}   
